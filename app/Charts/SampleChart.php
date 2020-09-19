@@ -19,7 +19,7 @@ class SampleChart extends BaseChart
     {
         return Chartisan::build('pie')
             ->labels(['中信兄弟', '樂天', '富邦', '統一7-ELEVEn'])
-            ->dataset('球隊對戰戰績', [1, 2, 3, 4])
-            ->dataset('團隊投球成績', [1, 2, 3, 4]);
+            ->dataset('球隊對戰戰績', [3, 4, 2, 1])
+            ->dataset('團隊投球成績', [3, 4, 2, 1]);
     }
 }

@@ -2,9 +2,9 @@
 
 namespace App\Providers;
 
+use App\Charts\SampleChart;
 use ConsoleTVs\Charts\Registrar as Charts;
 use Illuminate\Support\ServiceProvider;
-use App\Charts\SampleChart;
 
 class AppServiceProvider extends ServiceProvider
 {

@@ -8,7 +8,7 @@
     <body>
         <div id="chart" style="height: 300px;"></div>
         <!-- Charting library -->
-        <script src="https://unpkg.com/echarts@4.8.0/dist/echarts.min.js"></script>
+        <script src="https://unpkg.com/echarts@4.9.0/dist/echarts.min.js"></script>
         <!-- Chartisan -->
         <script src="https://unpkg.com/@chartisan/echarts@2.2.3/dist/chartisan_echarts.js"></script>
         <script>

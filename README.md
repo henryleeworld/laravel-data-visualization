@@ -1,4 +1,4 @@
-# Laravel 7 資料視覺化
+# Laravel 8 資料視覺化
 
 引入 consoletvs 的 charts 套件來擴增運用視覺的方式呈現數據，有效的圖表可以將繁雜的數據簡化成為易於吸收的內容。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/8Fh1gLl.png)
+![](https://i.imgur.com/91AAtfP.png)
 > 用圖像會比用文字描述更容易理解
